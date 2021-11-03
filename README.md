@@ -1,5 +1,7 @@
 # Hackintosh-CVN_B460i-EFI
 
+> 如果对您有帮助，麻烦点start支持一下！
+
 ## 1. 基本信息
 
 - 引导：Opencore 0.7.0
@@ -14,4 +16,3 @@
 - 支持无线网，蓝牙不稳定
 - 支持硬件加速
 - **睡眠及唤醒正常** ([HibernationFixup.kext](https://github.com/acidanthera/HibernationFixup)修复睡眠功能)
-
